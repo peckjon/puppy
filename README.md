@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td><h3>GitHub MCP Registry</h3></td>
-    <td><h3><a href="https://github.com/mcp">https://github.com/mcp</a></h3></td>
+    <td><h3><a href="https://github.com/mcp">GitHub.com/mcp</a></h3></td>
   </tr>
   <tr>
     <td colspan="2"><h4>Find and quickly install verified MCPs into VSCode</h4></td>
@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td><h3>GitHub Universe</h3></td>
-    <td><h3><a href="https://githubuniverse.com">https://githubuniverse.com</a></h3></td>
+    <td><h3><a href="https://githubuniverse.com">GitHubUniverse.com</a></h3></td>
   </tr>
   <tr>
     <td colspan="2"><h4>October 28-29 at Fort Mason in San Francisco</h4></td>
@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td><h3>Student Developer Pack (<a href="https://github.com/education">info</a>)</h3></td>
-    <td><h3><a href="https://gh.io/bellevuestudents">https://gh.io/bellevuestudents</a></h3></td>
+    <td><h3><a href="https://gh.io/bellevuestudents">gh.io/BellevueStudents</a></h3></td>
   </tr>
   <tr>
     <td colspan="2"><h4>Free GitHub Pro, Copilot, Azure credits, &amp; more</h4></td>
