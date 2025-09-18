@@ -1,7 +1,3 @@
-<!--
-README for peckjon/puppy – tables preserved, only actual URLs are linked.
--->
-
 <h3>Code of Conduct</h3>
 <ul>
   <li><b>Keep it clean! When in doubt, throw it out.</b></li>
