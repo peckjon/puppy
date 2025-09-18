@@ -33,7 +33,7 @@
 
 <table>
   <tr>
-    <td><h3>Student Developer Pack</h3></td>
+    <td><h3>Student Developer Pack (<a href="https://github.com/education">info</a>)</h3></td>
     <td><h3><a href="https://gh.io/bellevuestudents">https://gh.io/bellevuestudents</a></h3></td>
   </tr>
   <tr>
