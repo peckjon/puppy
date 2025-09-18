@@ -1,17 +1,47 @@
-> [!WARNING]
-> Code of Conduct
-> - Keep it clean! When in doubt, throw it out.
-> - Need something? Ask a Community Manager or GitHub Employee.
-> - See questionable behavior (e.g. attendee in restricted area)? Same.
+<!--
+README for peckjon/puppy – uses inline style for text sizing with rem units, no h1/h2/h3 tags.
+-->
 
-> [!NOTE]
-> <h2>GitHub MCP registry: &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mcp">GitHub.com/MCP</a></h2>
-> <h3>Find and quickly install verified MCPs into VSCode</h3>
+<span style="font-size:2em; font-weight:bold;">Code of Conduct</span>
 
-> [!IMPORTANT]
-> <h2>GitHub Universe: &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://githubuniverse.com">GithubUniverse.com<a/></h2>
-> <h3>October 28-29 at Fort Mason in San Francisco</h3>
+<ul>
+  <li><span style="font-size:1.5em;"><b>Keep it clean! When in doubt, throw it out.</b></span></li>
+  <li><span style="font-size:1.5em;">Need something? Ask a Community Manager or GitHub Employee.</span></li>
+  <li><span style="font-size:1.5em;">See questionable behavior (e.g. attendee in restricted area)? Same.</span></li>
+</ul>
 
-> [!TIP]
-> <h2>Student Developer Pack: &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gh.io/bellevuestudents">gh.io/BellevueStudents</a></h2>
-> <h3>Free GitHub Pro, Copilot, Azure credits, & more</h3>
+<hr/>
+
+<table>
+  <tr>
+    <td><span style="font-size:2em; font-weight:bold;">GitHub MCP Registry:</span></td>
+    <td><a href="https://github.com/mcp" style="font-size:2em; font-weight:bold;">GitHub.com/MCP</a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-size:1.5em;">Find and quickly install verified MCPs into VSCode</span></td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td><span style="font-size:2em; font-weight:bold;">GitHub Universe:</span></td>
+    <td><a href="https://githubuniverse.com" style="font-size:2em; font-weight:bold;">GithubUniverse.com</a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-size:1.5em;">October 28-29 at Fort Mason in San Francisco</span></td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td><span style="font-size:2em; font-weight:bold;">Student Developer Pack:</span></td>
+    <td><a href="https://gh.io/bellevuestudents" style="font-size:2em; font-weight:bold;">gh.io/BellevueStudents</a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-size:1.5em;">Free GitHub Pro, Copilot, Azure credits, &amp; more</span></td>
+  </tr>
+</table>
